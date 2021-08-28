@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-name-card/static/css/main.14382bce.chunk.css",
+    "main.js": "/react-name-card/static/js/main.4b354fcf.chunk.js",
+    "main.js.map": "/react-name-card/static/js/main.4b354fcf.chunk.js.map",
+    "runtime-main.js": "/react-name-card/static/js/runtime-main.f1bb755b.js",
+    "runtime-main.js.map": "/react-name-card/static/js/runtime-main.f1bb755b.js.map",
+    "static/js/2.3a69c513.chunk.js": "/react-name-card/static/js/2.3a69c513.chunk.js",
+    "static/js/2.3a69c513.chunk.js.map": "/react-name-card/static/js/2.3a69c513.chunk.js.map",
+    "static/js/3.5afba6b0.chunk.js": "/react-name-card/static/js/3.5afba6b0.chunk.js",
+    "static/js/3.5afba6b0.chunk.js.map": "/react-name-card/static/js/3.5afba6b0.chunk.js.map",
+    "index.html": "/react-name-card/index.html",
+    "static/css/main.14382bce.chunk.css.map": "/react-name-card/static/css/main.14382bce.chunk.css.map",
+    "static/js/2.3a69c513.chunk.js.LICENSE.txt": "/react-name-card/static/js/2.3a69c513.chunk.js.LICENSE.txt",
+    "static/media/me.3d90d428.png": "/react-name-card/static/media/me.3d90d428.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1bb755b.js",
+    "static/js/2.3a69c513.chunk.js",
+    "static/css/main.14382bce.chunk.css",
+    "static/js/main.4b354fcf.chunk.js"
+  ]
+}
