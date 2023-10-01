@@ -1,6 +1,6 @@
 # Website
 
-https://jjesusteran-mori.github.io/react-name-card/
+https://lteranl.github.io/react-name-card/
 
 # Getting Started with Create React App
 
